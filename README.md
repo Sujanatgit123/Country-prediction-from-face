@@ -1,6 +1,6 @@
 # 🌍 Country Prediction from Face using CNN 🧠
 
-This project is a deep learning-based image classification system that predicts a person's **country of origin** using only a facial image. It was developed as part of a capstone project by **Sanjay Singhaniya**, using TensorFlow, OpenCV, and Python.
+This project is a deep learning-based image classification system that predicts a person's **country of origin** using only a facial image. It was developed as part of a capstone project by **Sujan Singh**, using TensorFlow, OpenCV, and Python.
 
 ---
 
@@ -101,7 +101,8 @@ Improve accuracy with transfer learning or better data augmentation
 ---
 
 ## 👨‍💻 Author
-## Sujan Singh
+**Sujan Singh**
+
 AI & Data Science Enthusiast
 
 Github -  https://github.com/Sujanatgit123
